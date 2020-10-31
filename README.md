@@ -1,4 +1,24 @@
-# nbdev template
+# Rosalind Walkthrough
+> detailed solutions to bioinformatics and programming problems on Project Rosalind 
 
-Use this template to more easily create your nbdev project.
+
+https://lagamma.github.io/rosalind/
+
+## Install
+
+`pip install your_project_name`
+
+## How to use
+
+Fill me in please! Don't forget code examples:
+
+```python
+1+1
+```
+
+
+
+
+    2
+
 
